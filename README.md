@@ -1,1 +1,1 @@
-# Ped-care use only html css create project
+# Pet-care use only html css create project
